@@ -58,7 +58,7 @@ Making use of the existing code, add the following features to the React applica
 
 There are multiple ways to accomplish the above goals. The tests should be resilient enough to account for a few different ways.
 
-You _should not_ change the overall component hierarchy in this application. However, _you may_ switch components from functional components to class components.
+You _should not_ change the overall component hierarchy in this application.
 
 ### Using the API
 
